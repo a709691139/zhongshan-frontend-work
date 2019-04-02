@@ -41,13 +41,13 @@
 
 - [英yuan拓da科技](https://github.com/a709691139/zhongshan-frontend-work/issues/21)，西区中医院隔壁，外资企业，主要做展示型网页，如企业官网类型，只做大牌企业，如可口可乐之类，5天八小时，前端要求不高，有html,js基础面试题，还有一份图形识别题（电脑选择题）。三轮面试，1轮国内hr加技术，2轮和俄罗斯技术面试，3轮和澳大利亚hr测英语水平。
 
-- [盛tang地产](https://github.com/a709691139/zhongshan-frontend-work/issues/22)，大东裕国际中心，招满人了，现在两个前端，1个后端，主要做原生小程序和电脑商城为主 ，技术方面没有问框架的。
+- [盛tang地产](https://github.com/a709691139/zhongshan-frontend-work/issues/22)，大东裕国际中心，招满人了，现在两个前端，1个后端，主要做原生小程序和电脑商城为主 ，技术方面没有问框架的，座位比较狭窄。
 
 - [银he天下](https://github.com/a709691139/zhongshan-frontend-work/issues/23)，盛景尚峰，5天，现在说什么周六下午都要加班，笔试+人事, 技术主管要元旦后才回来继续面试，笔试主要是问html标签+css选择器，js基础（统计字符串中各英文的次数，数组冒泡排序，英文翻译），
 
 - [智yun启服](https://github.com/a709691139/zhongshan-frontend-work/issues/24)，就是联创工厂，西区天悦城附近，外包公司，福利单休，工资在你说的基础上减2K，不建议去。
 
-- [微sa斯](https://github.com/a709691139/zhongshan-frontend-work/issues/25)，伊电园，每月有两周六要加班（可换调休），做网页系统为主，给微商提供服务，技术团队接近20人，团队氛围可以，5k-10k，
+- [微sa斯](https://github.com/a709691139/zhongshan-frontend-work/issues/25)，伊电园，每月有两周六要加班（可换调休），晚上加班只有饭补，做网页系统为主，给微商提供服务，技术团队接近20人，5k-10k，平等化办公。
 
 - [首du科技](https://github.com/a709691139/zhongshan-frontend-work/issues/26)：火炬职业技术学院旁边，面试问项目经验，前端得维护angular2的项目，暂无重构的想法。弄h5,小程序。双休。老板比较能吹。
 
