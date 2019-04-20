@@ -5,7 +5,7 @@
 ## 已创建相关公司的[讨论区](https://github.com/a709691139/zhongshan-frontend-work/issues)，有需要的就在里面回复，看不懂打码的就去搜[issues](https://github.com/a709691139/zhongshan-frontend-work/issues)
 ## 面试流程[相关](https://github.com/a709691139/zhongshan-frontend-work/blob/master/question.md)
 
-- [neng龙教育](https://github.com/a709691139/zhongshan-frontend-work/issues/4)，东区3-6k，很舒服的公司，实习生萌新推荐。
+- [neng龙教育](https://github.com/a709691139/zhongshan-frontend-work/issues/4)，东区3-6k，双休8小时，很舒服的公司，实习生萌新推荐。
 
 - [da熊文化](https://github.com/a709691139/zhongshan-frontend-work/issues/5)  （3000-6000）。公司不大，20人-30人。单休8小时，里面都是用笔记本电脑，基本问题：了解微信开发的相关，会修改别人写的js框架（逗我），了解后台语言，要会写响应式页面，会写简单h5游戏（工作需求，这么点工资还要游戏开发？？），对json、ajax的提问，前后端的数据交流方式。
 
