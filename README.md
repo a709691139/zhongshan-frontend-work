@@ -79,4 +79,4 @@
 
 - [you品zhi学](https://github.com/a709691139/zhongshan-frontend-work/issues/41)，也叫he码编程, 伊电园， 招高级前端开发和小程序开发，8-11k，办公环境比较好，占一层， 做教育编程类网页，听说前期为了赶进度，什么jq react avalon代码都混一起，过去就要接盘，或者重构。 如果只面小程序开发那应该还是可以的。
 
-- [和合国际](https://github.com/a709691139/zhongshan-frontend-work/issues/42)，利和广场，8-13k，app前端开发，要是你会react native也就8k，想要再高工资就要会写原生android和ios?? 单招原生都不止这个价了，呵呵
+- [和he国际](https://github.com/a709691139/zhongshan-frontend-work/issues/42)，利和广场，8-13k，app前端开发，要是你会react native也就8k，想要再高工资就要会写原生android和ios?? 单招原生都不止这个价了，呵呵
