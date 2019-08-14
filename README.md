@@ -80,3 +80,11 @@
 - [you品zhi学](https://github.com/a709691139/zhongshan-frontend-work/issues/41)，也叫he码编程, 伊电园， 招高级前端开发和小程序开发，8-11k，办公环境比较好，占一层， 做教育编程类网页，听说前期为了赶进度，什么jq react avalon代码都混一起，过去就要接盘，或者重构。 如果只面小程序开发那应该还是可以的。
 
 - [和he国际](https://github.com/a709691139/zhongshan-frontend-work/issues/42)，利和广场，8-13k，app前端开发，要是你会react native也就8k，想要再高工资就要会写原生android和ios?? 单招原生都不止这个价了，呵呵
+
+- [guang东微校](https://github.com/a709691139/zhongshan-frontend-work/issues/45)，东区紫马奔腾，6-11K * 13薪，双休， 办公环境看着是非常高端的，估计40人左右，主要是是做教育高校管理方面的
+
+- [集联科ji](https://github.com/a709691139/zhongshan-frontend-work/issues/44)，大信附近的裕华大街，薪资4-6，实际只能给到4.5，大小周，办公区是一座3层居民楼，没错，一楼是厨房大厅的那种，二楼办公，创业公司，是刚开始准备创业的那种。
+
+- [guang东微校](https://github.com/a709691139/zhongshan-frontend-work/issues/43)，西区，金嘉创新港；薪资4-6，估计就4左右，大小周，团队没有前端，进去主要是做静态页面，用来展示VR特效的一些图，办公室非常小，3个人都拥挤的那种办公室
+
+- [guang东卓梅尼](https://github.com/a709691139/zhongshan-frontend-work/issues/46)，中山卓梅尼路，上市公司，6-10K，实际就是给6K，面试官有点嘲讽，喜欢问你个人有什么缺点，当你说出的缺点是轻微的那种的时候，会嘲讽说：哇，没别的缺点吗，让我觉得你是个接近完美的人；英语要比较好，产品和技术主管是个印度人，会口语比较方便交流。公司主要业务是做电梯的，但是公司6层楼，没有一个电梯，面试走上5楼，神奇！
