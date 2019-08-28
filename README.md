@@ -93,6 +93,6 @@
 
 - [乐式科ji](https://github.com/a709691139/zhongshan-frontend-work/issues/48)，横栏造明公社，薪资6k-8k，单休，主要智能家具物联网方向，与小米家具，天猫精灵有所合作，技术vue，react，react-native都都有所用到。办公环境还不错，但是地理位置较一般
 
-- [胤zhi旅](https://github.com/a709691139/zhongshan-frontend-work/issues/49), 火炬德仲大厦，7-12k，双休，顶层办公，准备用vue重构代码，招前端组长，后端大佬来面试人
+- [胤zhi旅](https://github.com/a709691139/zhongshan-frontend-work/issues/49), 火炬德仲大厦，7-12k，双休，顶层办公，准备用vue重构以前的外包代码，招前端组长，后端大佬来面试人
 
 - [点睛ke技](https://github.com/a709691139/zhongshan-frontend-work/issues/50), 石歧星汇湾，5-10k, 全vue项目，需求较乱，没几个有丰富经验的人撑场面，前端人员已全部走光，时间比较自由，目前工资没发，或发一半，持续几个月了，2019-08
