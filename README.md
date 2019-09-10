@@ -69,7 +69,7 @@
 
 - [yi棵树](https://github.com/a709691139/zhongshan-frontend-work/issues/35)， 单休 7k，在紫马广场17楼,公共办公室,vue+java后台项目,前端没有
 
-- [安乐wo](https://github.com/a709691139/zhongshan-frontend-work/issues/36)，单休，伊电园 jq项目,有响应式移动端,弹性上下班
+- [安乐wo](https://github.com/a709691139/zhongshan-frontend-work/issues/36)，单双休，伊电园 jq项目,有响应式移动端,弹性上下班
 
 - [优dian科技](https://github.com/a709691139/zhongshan-frontend-work/issues/37)，小榄,前端薪资5~9K，技术类型：jq+小程序，业务架构有些复杂。萌新刚进去估计会懵逼一段时间，熟悉业务逻辑后比较容易驾驭开发需求。公司团队氛围挺好，老板会经常组织员工活动。最重要的是工资准时发
 
