@@ -31,7 +31,7 @@
 
 - [聚yuan软件科技](https://github.com/a709691139/zhongshan-frontend-work/issues/16)，8-10k，小程序啊商城网页啊都要做，假日广场对面，5.5天7小时。有笔试题（无聊的基础问答，全写字，如web标准和w3c是什么，html和xhtml区别，jq怎么修改元素），技术提问（vue框架问题，路由钩子函数有哪些、双向同步怎么实现之类，还有页面性能优化，资源加载优化，js优化之类），有虚报价钱嫌疑，其他岗位工资都好低，技术主管也只是13-18k
 
-- [亿xiang网络](https://github.com/a709691139/zhongshan-frontend-work/issues/17)，利和 8k，初创公司，外资金融,1前端1后端1ui, 2018-10
+- [亿xiang网络](https://github.com/a709691139/zhongshan-frontend-work/issues/17)，利和 8k，初创外包公司，外资金融,1前端1后端1ui, 2018-10
 
 - [bei京班xiao二](https://github.com/a709691139/zhongshan-frontend-work/issues/18)，东区伊电园，创业公司, 2018-10，五险一金双休。要求小程序，公司门口招牌没有，需自带电脑。写着高薪，然后offer给你低价（7k不到），毕业年限小于4年的别去了，会说你什么工作时间少，经历的项目不多（呵呵）。
 
